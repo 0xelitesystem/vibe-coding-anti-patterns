@@ -66,6 +66,10 @@ PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md).
 - [ai-generated-code-review-rubrics](https://github.com/0xelitesystem/ai-generated-code-review-rubrics) - rubrics that catch them
 - [vibe-coding-test-strategies](https://github.com/0xelitesystem/vibe-coding-test-strategies) - how to test AI code
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
